@@ -9,7 +9,7 @@ conda activate shadow
 
 ## Data
 
-Our datasets and preprocessed synthetic dataset from can be found [here](https://nextcloud.mpi-klsb.mpg.de/index.php/s/mGXYKpD8raQ8nMk). Put the downloaded folders into "data/" sub-folder in the code directory.
+Our datasets and preprocessed synthetic dataset from can be found [here](https://drive.google.com/drive/folders/1hzpvl8i15hUJ5gNvULlxrTKvKDGqB5Kp?usp=sharing). Put the downloaded folders into "data/" sub-folder in the code directory.
 
 ## Training
 
